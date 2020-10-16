@@ -106,7 +106,7 @@ python main.py
 
 > [model.py](https://github.com/Abner0627/nc_lab_abner/blob/main/model.py)\
 > 模型的主要架構，使用卷積神經網路進行解碼。詳細架構圖如下：\
-> <img src=https://i.imgur.com/L9wSoPM.png>
+> <img src=https://i.imgur.com/c3IdQDs.png>
 
 
 > [get_data.py](https://github.com/Abner0627/nc_lab_abner/blob/main/get_data.py)\
