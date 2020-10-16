@@ -1,0 +1,8 @@
+
+*.mat
+*.pyc
+*.pth
+*.png
+*.npy
+model - 複製.py
+get_data - 複製.py
