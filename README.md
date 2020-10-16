@@ -91,7 +91,7 @@ python main.py
 > # 讀取多個session
 >     session_start = 0
 >     # 從該session開始讀取
->     session_end = 0
+>     session_end = 36
 >     # 至該session終止
 >     data_list = data_list[session_start:session_end+1]
 > ```
