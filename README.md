@@ -62,11 +62,11 @@
 cd到所在目錄後，在cmd/terminal輸入指令切換至python環境，\
 **PowerShell**
 ```ps
-"VENV_PATH"/Scripts/Activate.ps1
+"VENV_PATH"\Scripts\Activate.ps1
 ```
 **Cmd (Else)**
 ```ps
-"VENV_PATH"/Scripts/activate.bat
+"VENV_PATH"\Scripts\activate.bat
 ```
 接著使用python執行程式。
 ```ps
